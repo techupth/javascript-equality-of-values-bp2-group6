@@ -1,7 +1,4 @@
-// Exercise #2: Loose Equality
-// Start commenting here
-0 == false;//True
-null == undefined;//True
-10 == "10";//true
-[10] == 10;//True
-[1,2] == "1,2";//true
+// Exercise #2 Loose Equality
+// Start coding here
+0 == false; //true
+null == undefined; //true
